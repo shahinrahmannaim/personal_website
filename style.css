@@ -1,0 +1,213 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Nunito:ital,wght@0,400;1,700&family=Open+Sans+Condensed:wght@300;700&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Anton', sans-serif;
+font-family: 'Nunito', sans-serif;
+font-family: 'Open Sans Condensed', sans-serif;
+background: rgb(243, 243, 215);
+    }
+
+
+header {
+    width: 80%;
+    height: 50px;
+    margin: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    background: rgb(240, 247, 247);
+}
+
+.header-section ul li a {
+    text-decoration: none;
+    color: rgb(44, 2, 2);
+    padding: 20px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
+
+li {
+    list-style: none;
+    margin-top: -7px;
+    
+}
+
+ul {
+    display: flex;
+}
+
+.header-section {
+    float: right;
+    margin-right: 150px;
+}
+section{
+    margin: auto;
+    width: 80%;
+    height: 500px;
+    padding-left: 15px;
+    padding-right: 15px;
+   
+    background: rgb(255, 255, 255);
+}
+.half-width {
+    text-align: center;
+    width: 50%;
+    float: left;
+  
+}
+
+a.hire-me {
+    color: #ebe5e4;
+    text-decoration:none;
+    margin-left:50px;
+    padding:5px 40px;
+    background:#df6007e6;
+    border-radius:5px;
+    font-size:20px
+}
+
+span.my-name {
+    margin-left: 50px;
+    font-size: 50px;
+    color: tomato;
+}
+
+span.my-grating {
+    margin-left: 50px;
+    font-size: 50px;
+}
+.my-info p{
+    margin-left:50px;
+    font-family:sans-serif
+}
+.half-width img{
+    width: 60%;
+
+}
+.my-info {
+    padding-top: 180px;
+  font-size: 30px;
+}
+.about {
+    padding-top: 150px;
+}
+.thard-section{
+    background: rgb(199, 196, 196);
+    height: 650px;
+}
+
+
+
+.image-bloque {
+    height: 382px;
+    width: 30%;
+    float: left;
+    margin: 10px;
+    background: white;
+    text-align: center;
+    border-radius: 10px;
+}
+
+
+
+.thard-half {
+    width: 1305px;
+    margin: auto;
+    padding-left: 13px;
+    padding-right: 15px;
+}
+.project {
+    text-align: center;
+    padding-top: 65px;
+    padding-bottom: 50px;
+}
+
+.image-bloque img {
+    width: 83%;
+    float: left;
+    padding: 30px;
+}
+.thard-section span {
+    font-size: 28px;
+    font-family: fantasy;
+}
+
+
+.my{
+    color: tomato;
+}
+.image-bloque h3{
+
+    font-size:25px;
+    text-transform:uppercase;
+}
+.image-bloque p{
+    padding-left:22px;
+    padding-right:22px ;
+    
+   }
+   
+.last-section{
+    height: 700px;
+    background-image: url(images/background/Group_33094_1.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.back-image{
+
+}
+.hard-worker {   
+text-align: center;   
+padding-right: 500px;   
+font-size: 51px;   
+font-family: serif;   
+color: #ede9e9;   
+padding-top: 270px;
+float: left;
+width:300px
+}
+.chat{
+ width:150px;
+margin-left: 200px;   
+font-size: 30px;   
+font-family: serif;   
+margin-top: 270px;
+float: left;
+text-align:center;
+background:tomato;
+padding:15px;
+border-radius:10px
+
+}
+.chat a{
+    color:white;
+    text-decoration:none;
+}
+.stay-connected{
+    text-align: center;      
+font-size: 25px;   
+text-transform: uppercase;
+font-family: serif;   
+color: #1257eb;   
+padding-top: 500px;
+text-align:center;
+}
+
+.e-mail{
+    text-align: center;
+    font-size: 30px;
+}
+.info-logo{
+    text-align: center;
+    font-size: 40px;
+    background: white;
+}
+.info-logo a {
+    margin: 5px;
+}
